@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vikib\.cursor\Final_Project\Graphics\Graphics\main.cpp(652,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Users\vikib\.cursor\Final_Project\Graphics\Debug\Graphics.exe
